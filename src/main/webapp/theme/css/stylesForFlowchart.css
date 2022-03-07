@@ -90,7 +90,7 @@ img.pc {
     margin-bottom: 44px;
     background-image: url(https://www.eu-create.net/test/images/branch_flow_right.svg), url(https://www.eu-create.net/test/images/branch_flow_left.svg), url(https://www.eu-create.net/test/images/branch_flow_right.svg), url(https://www.eu-create.net/test/images/branch_flow_left.svg), url(https://www.eu-create.net/test/images/branch_flow_right.svg), url(https://www.eu-create.net/test/images/branch_flow_left.svg), url(https://www.eu-create.net/test/images/flow_bg_1.svg);
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
-    background-position: calc(50% + 42px) 1380px, calc(50% - 42px) 1260px, calc(50% + 42px) 936px, calc(50% - 42px) 660px, calc(50% + 42px) 380px, calc(50% - 42px) 160px, top center; }
+    background-position: calc(50% + 42px) 560px, calc(50% - 42px) 350px, calc(50% + 42px) 210px, calc(50% - 42px) 520px, calc(50% + 42px) 310px, calc(50% - 42px) 170px, top center; }
 
 .introduction_preparation .contents .inner .flow .flex {
     display: -webkit-box;
